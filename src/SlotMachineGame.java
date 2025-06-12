@@ -247,13 +247,13 @@ public class SlotMachineGame {
     }
 
     private void displayWelcome() {
-        System.out.println("╔═══════════════════════════════════════════════════════════════╗");
+        System.out.println("╔═══════════════════════════════════════════════════════════════=╗");
         System.out.println("║                    🎰 SLOT MACHINE GAME 🎰                    ║");
-        System.out.println("║                        Welcome to Vegas!                     ║");
+        System.out.println("║                        Welcome to Vegas!                      ║");
         System.out.println("╠═══════════════════════════════════════════════════════════════╣");
-        System.out.println("║ Symbols and Multipliers:                                     ║");
-        System.out.println("║ 🍒 Cherry x2  🍋 Lemon x3  🍊 Orange x4                     ║");
-        System.out.println("║ 🔔 Bell x5    ⭐ Bar x10   7️⃣ Seven x20 (+Jackpot!)         ║");
+        System.out.println("║ Symbols and Multipliers:                                      ║");
+        System.out.println("║ 🍒 Cherry x2  🍋 Lemon x3  🍊 Orange x4                      ║");
+        System.out.println("║ 🔔 Bell x5    ⭐ Bar x10   7️⃣ Seven x20 (+Jackpot!)          ║");
         System.out.println("╚═══════════════════════════════════════════════════════════════╝");
     }
 
